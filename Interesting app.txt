@@ -1,0 +1,4 @@
+1205011014 Halil ÇORAK
+1205011038 Çaðlþa ÞÝMÞEK
+
+Note: Php files work on our computers' local host. The addresses in code are our computer's ip address. 
